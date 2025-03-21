@@ -32,7 +32,4 @@ Batman's strength level is 95.
    python superhero.py
    ```
 3. Observe superhero interactions and modifications.  
-
 ---
-
-Would you like any modifications or additional features? 🚀
